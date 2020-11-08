@@ -1,4 +1,7 @@
 source "https://rubygems.org"
-
-gem 'rspec'
+gem 'json'
+gem 'net-http'
+gem 'open-uri'
 gem 'pry'
+gem 'rspec'
+
